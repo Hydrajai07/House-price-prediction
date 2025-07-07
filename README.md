@@ -1,5 +1,6 @@
 # House-price-prediction
-LinearRegression
+Model:LinearRegression
+Dataset used:Bangalore Houseing price data from kangle
 🏠 House Price Prediction
 This project involves building a machine learning model to predict house prices based on various features. It uses data preprocessing, exploratory data analysis (EDA), and regression algorithms to estimate the price of houses with high accuracy.
 
